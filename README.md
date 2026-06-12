@@ -1,4 +1,4 @@
-# SQL Sales and Customer Insight Dashboard
+#  Sales and Customer Insight Dashboard
 
 ## Project Overview
 This project analyzes sales performance and customer insights using SQL and dashboard visualization techniques. The dashboard highlights revenue trends, top customers, category contribution, and city-wise revenue distribution.
